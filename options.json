@@ -1,0 +1,70 @@
+{
+  "options": [
+    {
+      "key": "1",
+      "value": "RM|Región Metropolitana de Santiago|0|Región Metropolitana de Santiago|",
+      "label": "Región Metropolitana de Santiago",
+      "children": [
+        {
+          "key": "1.1",
+          "value": "Alhué",
+          "label": "Alhué",
+          "children": [
+            {
+              "key": "1.1.1",
+              "value": "CityX",
+              "label": "CityX"
+            },
+            {
+              "key": "1.1.2",
+              "value": "CityZ",
+              "label": "CityZ"
+            }
+          ]
+        },
+        {
+          "key": "1.2",
+          "value": "Buin",
+          "label": "Buin"
+        },
+        {
+          "key": "1.3",
+          "value": "Calera de Tango",
+          "label": "Calera de Tango"
+        },
+        {
+          "key": "1.4",
+          "value": "Cerrillos",
+          "label": "Cerrillos"
+        }
+      ]
+    },
+    {
+      "key": "2",
+      "value": "TA|Región I - Tarapacá|0|Región I - Tarapacá|",
+      "label": "Región I - Tarapacá",
+      "children": [
+        {
+          "key": "2.1",
+          "value": "Alto Hospicio",
+          "label": "Alto Hospicio"
+        },
+        {
+          "key": "2.2",
+          "value": "Camiña",
+          "label": "Camiña"
+        },
+        {
+          "key": "2.3",
+          "value": "Colchane",
+          "label": "Colchane"
+        },
+        {
+          "key": "2.4",
+          "value": "Huara",
+          "label": "Huara"
+        }
+      ]
+    }
+  ]
+}
