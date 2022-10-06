@@ -47,7 +47,19 @@
         {
           "key": "2.1",
           "value": "Alto Hospicio",
-          "label": "Alto Hospicio"
+          "label": "Alto Hospicio",
+          "children": [
+            {
+              "key": "2.1.1",
+              "value": "City Foo",
+              "label": "City Foo"
+            },
+            {
+              "key": "2.1.2",
+              "value": "City Bar",
+              "label": "City Bar"
+            }
+          ]
         },
         {
           "key": "2.2",
