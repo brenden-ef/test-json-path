@@ -64,7 +64,25 @@
         {
           "key": "2.2",
           "value": "Camiña",
-          "label": "Camiña"
+          "label": "Camiña",
+          "children": [
+            {
+              "key": "2.2.1",
+              "value": "City A",
+              "label": "City A"
+            },
+            {
+              "key": "2.2.2",
+              "value": "City B",
+              "label": "City B"
+            },
+
+            {
+              "key": "2.2.3",
+              "value": "City C",
+              "label": "City C"
+            }
+          ]
         },
         {
           "key": "2.3",
